@@ -25,7 +25,7 @@ github_username: username
 minimal_mistakes_skin: dark
 search: true
 baseurl: ""
-logo_path: /assets/images/Logo.png
+logo: /assets/images/Logo.png
 
 # Build settings
 markdown: kramdown
