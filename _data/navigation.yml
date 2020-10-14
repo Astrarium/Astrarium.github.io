@@ -1,3 +1,5 @@
 main:
+  - title: "Screenshots"
+    url: /screenshots/
   - title: "About"
     url: /about/

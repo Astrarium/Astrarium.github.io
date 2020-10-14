@@ -10,5 +10,9 @@ $footer-background-color: #151515 !default;
 $primary-color: #4875A5 !default;
 $link-color: #4875A5 !default;
 
+.page__lead {
+  line-height: 0px;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
