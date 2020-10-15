@@ -32,6 +32,36 @@ gallery:
     image_path: "/assets/images/screenshots/DeepSkies.png"
     alt: "NGC/IC catalog is supported"
     title: "NGC/IC catalog is supported"
+
+  - url: "/assets/images/screenshots/Ephemerides.png"
+    image_path: "/assets/images/screenshots/Ephemerides.png"
+    alt: "Ephemerides tool allows to calculate wide range of celestial object's properties"
+    title: "Ephemerides tool allows to calculate wide range of celestial object's properties"
+
+  - url: "/assets/images/screenshots/FOV.png"
+    image_path: "/assets/images/screenshots/FOV.png"
+    alt: "Field Of View plugin calculates FOV for specified equipment and shows FOV frame on the map"
+    title: "Field Of View plugin calculates FOV for specified equipment and shows FOV frame on the map"
+
+  - url: "/assets/images/screenshots/MapMode.png"
+    image_path: "/assets/images/screenshots/MapMode.png"
+    alt: "Map mode is suitable for printing star maps on paper"
+    title: "Map mode is suitable for printing star maps on paper"
+
+  - url: "/assets/images/screenshots/NightMode.png"
+    image_path: "/assets/images/screenshots/NightMode.png"
+    alt: "Use night mode while observing sky to prevent your eyes to be disoriented by a bright light"
+    title: "Use night mode while observing sky to prevent your eyes to be disoriented by a bright light"
+
+  - url: "/assets/images/screenshots/MotionTrack.png"
+    image_path: "/assets/images/screenshots/MotionTrack.png"
+    alt: "Motion tracks tool is handy when you want to explore how a celestial body moves during the time"
+    title: "Motion tracks tool is handy when you want to explore how a celestial body moves during the time"
+
+  - url: "/assets/images/screenshots/Phenomena.png"
+    image_path: "/assets/images/screenshots/Phenomena.png"
+    alt: "Phenomena tool can predict many types of astronomical events"
+    title: "Phenomena tool can predict many types of astronomical events"
 ---
 
-{% include gallery layout="half" %}
+{% include gallery layout="full" %}
