@@ -8,10 +8,18 @@ $background-color: #101010 !default;
 $footer-background-color: #151515 !default;
 
 $primary-color: #4875A5 !default;
-$link-color: #4875A5 !default;
+$link-color: #7698bc !default;
 
 .page__lead {
   line-height: 0px;
+}
+
+.site-logo img {
+  filter: drop-shadow(0px 0px 5px #fff);
+}
+
+.site-logo img:hover {
+  filter: drop-shadow(0px 0px 5px #d6a172);
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
