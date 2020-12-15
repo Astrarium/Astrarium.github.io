@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/splash.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download"
-      url: "https://github.com/Astrarium/Astrarium/releases/latest/download/Astrarium-2020.10.1-portable.zip"
+      url: "https://github.com/Astrarium/Astrarium/releases/latest/download/Astrarium-WebInstaller.exe"
 excerpt: "Open-Source .Net Planetarium"
 screenshots:
   - image_path: /assets/images/screenshots/Main.png
@@ -50,5 +50,6 @@ Source code is available on <i class='fab fa-github'></i> [GitHub](https://githu
 - Motion tracks
 - Field of view frames (for telescope with eyepiece/binoculars/digital cameras)
 - Night mode support
+- ASCOM telescope control
 
 
