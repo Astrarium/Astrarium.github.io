@@ -7,8 +7,8 @@ header:
   overlay_image: /assets/images/splash.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download"
-      url: "https://github.com/Astrarium/Astrarium/releases/latest/download/Astrarium-setup.exe"
-excerpt: "Open-source planetarium software"
+      url: "/download"
+excerpt: "Open-Source .Net Planetarium"
 screenshots:
   - image_path: /assets/images/screenshots/Main.png
     excerpt: "&nbsp;"
