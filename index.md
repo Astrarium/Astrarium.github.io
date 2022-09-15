@@ -38,18 +38,21 @@ Source code is available on <i class='fab fa-github'></i> [GitHub](https://githu
 \* <small>*The full set of features depends on installed plugins*</small>
 
 - Accurate positions of Sun, Moon (ELP2000/82b theory is used), eight major planets (VSOP87), and their satellites
-- BSC (~10k entries) and Tycho2 (~2.5M entries) star catalogues
+- BSC (~10k entries), Tycho2 (~2.5M entries) and UCAC4 (~113M entries) star catalogues
 - NGC/IC deep sky catalogues
-- Bright asteroids and comets
+- Bright asteroids and comets with auto-updatable orbital elements
 - Planets, Moon and satellites are displayed according to their appearance as seen from the Earth
 - Lunar and Martian surface features are displayed (in small zoom scales)
 - Realtime images of the Sun
 - Detailed info about celestial objects
 - Prediction of astronomical phenomenae
+- Observation planner with wide range of filters
+- Jupiter moons events and GRS transit times prediction
+- Meteor showers
 - Ephemeris generating tool
 - Motion tracks
 - Field of view frames (for telescope with eyepiece/binoculars/digital cameras)
 - Night mode support
 - ASCOM telescope control
-
+- Telescope control with joystick/gamepad
 
