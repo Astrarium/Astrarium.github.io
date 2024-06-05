@@ -1,17 +1,17 @@
 ---
 layout: single
 title: "Donate"
-permalink: /donate/
+permalink: /ru/donate/
 ---
 
-Do you like Astrarium?<br/>
-If yes, please consider to make a donation. This is an open source project and can be used free of charge, but even a small donation is a huge motivation to continue development and implementing new features. Any help will be appreciated.<br/> Thank you :)
+Вам нравится Astrarium?<br/>
+Если вы находите эту программу полезной, то можете сделать пожертвование. Даже небольшая сумма послужит отличной мотивацией к развитию программы.<br/>Спасибо :)
 <br/>
 
 <table border="0">
  <tr>
-	<td><b>Via CloudTips</b></td>
-    <td><b>Via Yoomoney</b></td>
+	<td><b>Через CloudTips</b></td>
+    <td><b>Через Yoomoney</b></td>
     
  </tr>
  
@@ -27,7 +27,7 @@ If yes, please consider to make a donation. This is an open source project and c
   <tr>
     <td>
 		<div class="cloudtips"> 
-			<a class="cloudtips" href="https://pay.cloudtips.ru/p/465ec2c2">Donate</a>
+			<a href="https://pay.cloudtips.ru/p/465ec2c2">Пожертвовать</a>
 		</div>
 	</td>
     <td>
