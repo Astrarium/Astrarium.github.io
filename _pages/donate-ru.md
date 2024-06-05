@@ -60,6 +60,8 @@ permalink: /ru/donate/
 	.qr {
 		width: 250px;
 		height: 250px;
+		min-width: 250px;
+		min-height: 250px;
 	}
 	
 </style>
