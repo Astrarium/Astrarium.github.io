@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Donate"
+title: "Сделать пожертвование"
 permalink: /ru/donate/
 ---
 
