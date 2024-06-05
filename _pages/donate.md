@@ -17,22 +17,50 @@ If yes, please consider to make a donation. This is an open source project and c
  
  <tr>
     <td>
-		<img src="/assets/images/qr/qr-cloudtips.png" width="200" height="200" />
+		<img src="/assets/images/qr/qr-cloudtips.png" class="qr" />
 	</td>
     <td>
-		<img src="/assets/images/qr/qr-yoomoney.png" width="200" height="200" />
+		<img src="/assets/images/qr/qr-yoomoney.png" class="qr" />
 	</td>
  </tr>
 
   <tr>
     <td>
-		<a href="https://pay.cloudtips.ru/p/465ec2c2">CloudTips</a>
+		<div class="cloudtips"> 
+			<a class="cloudtips" href="https://pay.cloudtips.ru/p/465ec2c2">Donate</a>
+		</div>
 	</td>
     <td>
 		<iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=B1UQ5gP24vY.231024&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 	</td>
  </tr>
  
- </table>
+</table>
 
+
+<style type="text/css">
+	.cloudtips {
+		background: #6496dc;
+		border-radius: 12px;
+		padding: 6px;
+		min-height: 37px;
+		display: block;
+		margin-top: -18px;
+	}
+	
+	.cloudtips a {
+		color: white;
+		text-decoration: none;
+		display: block;
+		text-align: center;
+		font-size: 16px;
+		font-weight: bold;
+	}
+
+	.qr {
+		width: 250px;
+		height: 250px;
+	}
+	
+</style>
 
