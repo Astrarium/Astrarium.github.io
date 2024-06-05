@@ -60,6 +60,8 @@ If yes, please consider to make a donation. This is an open source project and c
 	.qr {
 		width: 250px;
 		height: 250px;
+		min-width: 250px;
+		min-height: 250px;
 	}
 	
 </style>
