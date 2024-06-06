@@ -12,9 +12,7 @@ If yes, please consider to make a donation. This is an open source project and c
  <tr>
 	<td><b>Via CloudTips</b></td>
     <td><b>Via Yoomoney</b></td>
-    
  </tr>
- 
  <tr>
     <td>
 		<img src="/assets/images/qr/qr-cloudtips.png" class="qr" />
@@ -36,9 +34,7 @@ If yes, please consider to make a donation. This is an open source project and c
  <tr>
 	<td><b>USDT</b></td>
     <td><b>BTC</td>
-    
  </tr>
- 
  <tr>
     <td>
 		<img src="/assets/images/qr/qr-usdt.jpg" class="qr" />
@@ -47,12 +43,10 @@ If yes, please consider to make a donation. This is an open source project and c
 		<img src="/assets/images/qr/qr-btc.jpg" class="qr" />
 	</td>
  </tr>
-
   <tr>
     <td><small>0xbaA6a5076857344858921f6Fc271DF2BaD2B6F7F</small></td>
     <td><small>bc1qu9et9xw9kdc4e9qt30magfcluqq8ys6lzy9ef5</small></td>
  </tr>
- 
 </table>
 
 
