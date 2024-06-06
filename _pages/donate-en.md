@@ -37,10 +37,10 @@ If yes, please consider to make a donation. This is an open source project and c
  </tr>
  <tr>
     <td>
-		<img src="/assets/images/qr/qr-usdt.jpg" class="qr" />
+		<img src="/assets/images/qr/qr-usdt.png" class="qr" />
 	</td>
     <td>
-		<img src="/assets/images/qr/qr-btc.jpg" class="qr" />
+		<img src="/assets/images/qr/qr-btc.png" class="qr" />
 	</td>
  </tr>
   <tr>
