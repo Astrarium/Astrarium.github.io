@@ -24,3 +24,8 @@ $link-color: #7698bc !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+::selection {
+    color: #fff;
+    background: #7698bc;
+}

@@ -33,7 +33,7 @@ If yes, please consider to make a donation. This is an open source project and c
  </tr>
  <tr>
 	<td><b>USDT</b></td>
-    <td><b>BTC</td>
+    <td><b>BTC</b></td>
  </tr>
  <tr>
     <td>
