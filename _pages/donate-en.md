@@ -37,6 +37,33 @@ If yes, please consider to make a donation. This is an open source project and c
  
 </table>
 
+<table border="0">
+ <tr>
+	<td><b>USDT</b></td>
+    <td><b>BTC</td>
+    
+ </tr>
+ 
+ <tr>
+    <td>
+		<img src="/assets/images/qr/qr-usdt.jpg" class="qr" />
+	</td>
+    <td>
+		<img src="/assets/images/qr/qr-btc.jpg" class="qr" />
+	</td>
+ </tr>
+
+  <tr>
+    <td>
+			USDT: 0xbaA6a5076857344858921f6Fc271DF2BaD2B6F7F
+	</td>
+    <td>
+		BTC: bc1qu9et9xw9kdc4e9qt30magfcluqq8ys6lzy9ef5
+	</td>
+ </tr>
+ 
+</table>
+
 
 <style type="text/css">
 	.cloudtips {
