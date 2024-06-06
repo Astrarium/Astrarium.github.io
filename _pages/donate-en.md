@@ -23,8 +23,7 @@ If yes, please consider to make a donation. This is an open source project and c
 		<img src="/assets/images/qr/qr-yoomoney.png" class="qr" />
 	</td>
  </tr>
-
-  <tr>
+ <tr>
     <td>
 		<div class="cloudtips"> 
 			<a href="https://pay.cloudtips.ru/p/465ec2c2">Donate</a>
@@ -34,8 +33,8 @@ If yes, please consider to make a donation. This is an open source project and c
 		<iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=B1UQ5gP24vY.231024&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 	</td>
  </tr>
- 
-</table>
+ </table>
+
 
 <table border="0">
  <tr>
@@ -54,12 +53,8 @@ If yes, please consider to make a donation. This is an open source project and c
  </tr>
 
   <tr>
-    <td>
-			USDT: 0xbaA6a5076857344858921f6Fc271DF2BaD2B6F7F
-	</td>
-    <td>
-		BTC: bc1qu9et9xw9kdc4e9qt30magfcluqq8ys6lzy9ef5
-	</td>
+    <td>0xbaA6a5076857344858921f6Fc271DF2BaD2B6F7F</td>
+    <td>bc1qu9et9xw9kdc4e9qt30magfcluqq8ys6lzy9ef5</td>
  </tr>
  
 </table>
