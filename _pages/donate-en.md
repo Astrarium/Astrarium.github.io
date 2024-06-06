@@ -33,10 +33,6 @@ If yes, please consider to make a donation. This is an open source project and c
 		<iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=B1UQ5gP24vY.231024&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 	</td>
  </tr>
- </table>
-
-
-<table border="0">
  <tr>
 	<td><b>USDT</b></td>
     <td><b>BTC</td>
@@ -53,8 +49,8 @@ If yes, please consider to make a donation. This is an open source project and c
  </tr>
 
   <tr>
-    <td>0xbaA6a5076857344858921f6Fc271DF2BaD2B6F7F</td>
-    <td>bc1qu9et9xw9kdc4e9qt30magfcluqq8ys6lzy9ef5</td>
+    <td><small>0xbaA6a5076857344858921f6Fc271DF2BaD2B6F7F</small></td>
+    <td><small>bc1qu9et9xw9kdc4e9qt30magfcluqq8ys6lzy9ef5</small></td>
  </tr>
  
 </table>
