@@ -40,12 +40,17 @@ Source code is available on <i class='fab fa-github'></i> [GitHub](https://githu
 - Accurate positions of Sun, Moon (ELP2000/82b theory is used), eight major planets (VSOP87), and their satellites
 - BSC (~10k entries), Tycho2 (~2.5M entries) and UCAC4 (~113M entries) star catalogues
 - NGC/IC deep sky catalogues
+- Realistic landscapes with ability to specify custom panoramic image
 - Bright asteroids and comets with auto-updatable orbital elements
+- Artificial satellites
 - Planets, Moon and satellites are displayed according to their appearance as seen from the Earth
 - Lunar and Martian surface features are displayed (in small zoom scales)
 - Realtime images of the Sun
+- Active Solar Region Summary view
 - Detailed info about celestial objects
 - Prediction of astronomical phenomenae
+- Interactive maps of lunar and solar eclipses
+- Atmospheric effects like light pollution, extinction and fog
 - Observation planner with wide range of filters
 - Jupiter moons events and GRS transit times prediction
 - Meteor showers
