@@ -62,47 +62,47 @@ gallery:
     image_path: "/assets/images/screenshots/Phenomena.png"
     alt: "Phenomena tool can predict many types of astronomical events"
     title: "Phenomena tool can predict many types of astronomical events"
-	
+
   - url: "/assets/images/screenshots/AndromedaGxy.png"
     image_path: "/assets/images/screenshots/AndromedaGxy.png"
     alt: "Andromeda Galaxy"
     title: "Andromeda Galaxy"
-	
+
   - url: "/assets/images/screenshots/AtmosphericEffects.png"
     image_path: "/assets/images/screenshots/AtmosphericEffects.png"
     alt: "Different atmospheric effects are available, like fog and light pollution"
     title: "Different atmospheric effects are available, like fog and light pollution"
-	
+
   - url: "/assets/images/screenshots/EclipsesMap.png"
     image_path: "/assets/images/screenshots/EclipsesMap.png"
     alt: "Eclipse map displays Moon shadow track on the Earth surface"
     title: "Eclipse map displays Moon shadow track on the Earth surface"
-	
+
   - url: "/assets/images/screenshots/Halley.png"
     image_path: "/assets/images/screenshots/Halley.png"
     alt: "Comets are displayed with respect of their coma and tail sizes"
     title: "Comets are displayed with respect of their coma and tail sizes"
-	
+
   - url: "/assets/images/screenshots/JupiterEvents.png"
     image_path: "/assets/images/screenshots/JupiterEvents.png"
     alt: "Jupiter Events Tool helps to plan observation of Gaglilean moons"
     title: "Jupiter Events Tool helps to plan observation of Gaglilean moons"
-	
+
   - url: "/assets/images/screenshots/MeteorShowers.png"
     image_path: "/assets/images/screenshots/MeteorShowers.png"
     alt: "Meteor Showers Tool displays activity calendar for desired year with respect of Moon phases"
     title: "Meteor Showers Tool displays activity calendar for desired year with respect of Moon phases"
-	
+
   - url: "/assets/images/screenshots/ObservationPlanner.png"
     image_path: "/assets/images/screenshots/ObservationPlanner.png"
     alt: "Observation Planner will help you to find the best time to observe any type of celestial object"
     title: "Observation Planner will help you to find the best time to observe any type of celestial object"
-	
+
   - url: "/assets/images/screenshots/ObserverLocation.png"
     image_path: "/assets/images/screenshots/ObserverLocation.png"
     alt: "Observer Location window displays interactive map for best positioning"
     title: "Observer Location window displays interactive map for best positioning"
-	
+
   - url: "/assets/images/screenshots/SolarActivity.png"
     image_path: "/assets/images/screenshots/SolarActivity.png"
     alt: "Solar Activity window displays active solar regions"
